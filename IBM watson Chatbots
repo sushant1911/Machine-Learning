@@ -1,5 +1,5 @@
 "This chatbot assiste you you buy flower for different occasion."
-require "https://assistant-chat-eu-gb.watsonplatform.net/web/public/043957cd-8734-4ba0-be02-1c3c078df32b"/>
+require 'https://assistant-chat-eu-gb.watsonplatform.net/web/public/043957cd-8734-4ba0-be02-1c3c078df32'
 Json code:
 {
   "name": "Flower Shop Skill",
